@@ -12,11 +12,10 @@ public class Ej9 {
 		 b=teclado.nextInt();
 
 		 if (a==0) {
-			 if (b!=0) {
+			 if (b!=0)
 				 s=s+b;
-			 } else {
-			 s=s+a;
-			 }
+			 else
+				 s=s+a;
 		 }
 		 System.out.println("s: "+s);
 		
