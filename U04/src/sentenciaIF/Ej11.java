@@ -15,7 +15,7 @@ public class Ej11{
 			 if (b!=0)
 				 s=s+b;
 		 else if (a==0 && b==0)
-		 s++;
+			 s++;
 		 System.out.println("s: "+s);
 		 
 		 teclado.close();
