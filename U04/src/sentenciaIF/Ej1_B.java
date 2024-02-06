@@ -20,6 +20,9 @@ public class Ej1_B {
 		 }
 		 else
 		 System.out.println("x NO vale 10");
-	 	}
+	
+		 entrada.close();
 	}
+	
+}
 

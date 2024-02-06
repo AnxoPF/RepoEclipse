@@ -19,6 +19,7 @@ public class Ej1 {
 		 System.out.println("x NO vale 10");
 		 System.out.println("x - y vale: "+ (x-y));
 	 	}
+	 entrada.close();
 	}
 }
 
