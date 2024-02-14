@@ -8,7 +8,6 @@ public class Ej6 {
 	    System.out.println(obtenerTipoDiaDeLaSemana("R"));
 	}
 	
-	
 	private static String obtenerTipoDiaDeLaSemana(String day) {
 	    return switch (day) {
 	        case "L", "M", "X", "J", "V" -> "Laborable";
@@ -16,8 +15,5 @@ public class Ej6 {
 	        default -> "Día no reconocido";
 	    };
 	}
-
-	
-
 
 }
