@@ -51,6 +51,7 @@ public class Agenda {
         } else {
             System.out.println("Contacto no encontrado.");
         }
+       scanner.close();
     }
 
     private int buscarContactoPorEmail(String email) {
