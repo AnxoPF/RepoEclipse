@@ -1,6 +1,6 @@
 package recursividad;
 
-public class Ej2 {
+public class Ej1Main {
 	public static void main(String[] args) {
 		
 	}
